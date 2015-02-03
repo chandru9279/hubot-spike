@@ -1,0 +1,1 @@
+del .hubot_history
